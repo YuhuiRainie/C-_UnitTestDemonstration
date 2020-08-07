@@ -1,0 +1,32 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\New folder\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\New folder\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\New folder\Shapes\Shapes\obj\Debug\Shapes.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\New folder\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\New folder\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-4\Lab Work\New folder\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week6\UnitTesing\Shapes\Shapes\bin\Debug\Shapes.exe.config
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week6\UnitTesing\Shapes\Shapes\bin\Debug\Shapes.exe
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week6\UnitTesing\Shapes\Shapes\bin\Debug\Shapes.pdb
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week6\UnitTesing\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week6\UnitTesing\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week6\UnitTesing\Shapes\Shapes\obj\Debug\Shapes.exe
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week6\UnitTesing\Shapes\Shapes\obj\Debug\Shapes.pdb
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.exe.config
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.exe
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\Shapes\bin\Debug\Shapes.pdb
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.exe
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.pdb

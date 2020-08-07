@@ -1,0 +1,20 @@
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\Shapes.exe
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\Shapes.pdb
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\12760411\Desktop\C# Programming\Tutorial-Lab3-ProgrammingSolutions\Tutorial-Lab3-ProgrammingSolutions\Shapes\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\Shapes.exe
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\Shapes.pdb
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\Shapes.exe.config
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\2018 spring\net\week 6\lab\Tutorial lab 5 ProgrammingSolutions\Shapes\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
